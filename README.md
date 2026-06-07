@@ -202,7 +202,7 @@ Customer-Intelligence-Revenue-Analytics-Platform/
 │   ├── customer_intelligence_lab.png
 │   └── operational_risk_dashboard.png
 ├── Report Tableau.pdf
-├── B23CM1003(1).twb
+├── enterprise_customer_intelligence_platform.twb
 └── README.md
 ````
 
